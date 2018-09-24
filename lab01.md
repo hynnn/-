@@ -9,7 +9,7 @@ title: Markdown的那些事
 
 ## 1. Markdown起源
 
->Markddown诞生于互联网时代，是由John Gruber 设计并实现，并且采纳了很多来自于Aaron Swartz 的改进。 Markdown 语言吸收了很多在电子邮件中已有的纯文本标记的特性，其设计初衷为 使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML 文档 。
+>Markddown诞生于互联网时代，是由John Gruber 设计并实现，并且采纳了很多来自于Aaron Swartz 的改进。 Markdown 语言吸收了很多在电子邮件中已有的纯文本标记的特性，其设计初衷为 使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML 文档。
 
 
 ## 2. Markdown的使用说明
