@@ -106,3 +106,5 @@ title: 我喜欢的Steve Jobs
 
 ![](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=e948e7bdc88065386fe7ac41f6b4ca21/8694a4c27d1ed21b74af4c16af6eddc450da3fda.jpg)
 
+
+
