@@ -46,6 +46,8 @@ C语言中写成“RGB(239, 125, 49)”，也可以写成十六进制的形式�
 
 注：颜色中的RGB成分数值范围均为（0~255），用十六进制表示即（0x00~0xFF），这个范围正好占用一个字节（8位）。因此一种颜色含RGB三种成分占用三个字节（24位），这就是24位真彩色的由来了。
 
+>HiColor is a term that indicates a 16-bit color depth. Five bits are used for each number in an RGB value and the extra bit is sometimes used to represent transparency. TrueColor indicates a 24-bit color depth. Therefore, each number in an RGB value gets eight bits.
+
 ![](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=7bcbda10f8198618554ae7d62b844516/a1ec08fa513d2697913e572c55fbb2fb4216d8d6.jpg)
 
 ## 如何根据RGB值来判断这是种什么颜色？
