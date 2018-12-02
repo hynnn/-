@@ -108,3 +108,4 @@
 >There is a path for every one, no one can help you, find your own feeling and calling. 
 
 西部世界里的爱情悲剧激发了我写下这篇博客，希望能有能更多的人注意到AI技术所引发的伦理问题。
+
