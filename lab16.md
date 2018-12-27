@@ -6,11 +6,11 @@
 
 而网络流量可以用于评价一个网站的**网站权重**（如Alexa指标），Alexa每天在网上搜集超过1,000GB的信息，然后进行整合发布，他搜集的网址链接数量甚至已经超过了Google。
 
-![](https://img-blog.csdn.net/20160104130509065?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](images/lab1602.jpg)
 
 Alexa排名也或多或少反映了网站的知名程度，下面给出2017年2月的排名情况，我们可以看到有许多影响力较大的网站位列其中:
 
-![](https://img-blog.csdnimg.cn/20181213145511524.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjQ3OTA5Mg==,size_16,color_FFFFFF,t_70)
+![](images/lab16.png)
 
 ## 流量的本质
 
@@ -28,7 +28,7 @@ Alexa排名也或多或少反映了网站的知名程度，下面给出2017年2�
 
 下面不妨贴上一张互联网主要盈利模式的图片。
 [来源知乎](https://www.zhihu.com/question/38371799)
-![](https://img-blog.csdnimg.cn/20181213150122479.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjQ3OTA5Mg==,size_16,color_FFFFFF,t_70)
+![](images/lab1603.jpg)
 
 我们从上图不难发现，要想增大盈利，就要增加顾客数量。那么如何增加顾客数量呢？流量！
 
